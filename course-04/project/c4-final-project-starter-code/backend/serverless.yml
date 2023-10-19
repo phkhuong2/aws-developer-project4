@@ -30,7 +30,7 @@ provider:
     INDEX_TO_NAME: ${self:provider.environment.TODOS_CREATED_AT_INDEX}
     ATTACHMENT_S3_BUCKET: serverless-c4-todo-us117-images-${self:provider.stage}
     SIGNED_URL_EXPIRATION: 300
-    AUTH_0_SECRET_ID: uo1QQQNop89QU7NQB2lH7IFW8gGdwOiKmbmoLw8hCg80sKMdvV3KWAancRA_-zUv
+    AUTH_0_SECRET_ID: G493VYCpOQH7hFIpKYrNfUvnKatioOe9UKCXe198h-qXeB7KLNP-Unyh8Vf9Cr04
 
 
   logs:
